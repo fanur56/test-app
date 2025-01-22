@@ -1,0 +1,28 @@
+.cardItem {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #d8d8dd;
+  cursor: pointer;
+}
+
+.postItem {
+  padding: 10px;
+  background-color: #d8d8dd;
+  border-radius: 5px;
+}
+
+.postTitle {
+  font-size: 18px;
+}
+
+.inputTitle {
+  display: flex;
+  flex-direction: row;
+}
+
+.commentItem {
+  margin: 10px 0;
+  background-color: #d8d8dd;
+  padding: 10px;
+  border-radius: 5px;
+}
